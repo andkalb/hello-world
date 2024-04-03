@@ -1,0 +1,4 @@
+height: 5 foot 9 inch
+hair color: black
+eye color: brown
+major: CSE
